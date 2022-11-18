@@ -7,5 +7,5 @@ You can find me on:
 <ul>
   <li>Mastodon: <a rel="me" href="https://chaos.social/@jochenklar">@jochenklar@chaos.social</a></li>
   <li>twitter: <a rel="me" href="https://twitter.com/jochenklar">@jochenklar</a></li>
-  <li>ORCID: <a rel="me" href="[https://twitter.com/jochenklar](http://orcid.org/0000-0002-5883-4273)">0000-0002-5883-4273</a></li>
+  <li>ORCID: <a rel="me" href="http://orcid.org/0000-0002-5883-4273">0000-0002-5883-4273</a></li>
 </ul>
